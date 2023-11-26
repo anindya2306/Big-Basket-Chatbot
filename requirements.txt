@@ -1,0 +1,13 @@
+chainlit
+langchain
+numpy
+pandas
+HuggingFaceTransformers
+faiss-cpu  # Use faiss-gpu if you're running on GPU
+pypdf 
+accelerate 
+bitsandbytes 
+transformers 
+sentence_transformers 
+chainlit 
+ctransformers
